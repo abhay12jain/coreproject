@@ -1,0 +1,171 @@
+/*---------------------------------common------------------------------------*/
+body{background-color:#e4e7f4; margin:0 15px 0 15px; padding:0; font-family:Arial, Helvetica, sans-serif; background-image:url(../../admin/images/bg_header.jpg); background-repeat:repeat-x; background-position:top; font-size:12px;}
+.body{background-image:none; background-color:#EEEEEE;}
+img{border:none}
+
+/*---------------------------------header--------------------------------------*/
+.header{width:100%; margin-left:auto; margin-right:auto;  height:146px; color:#FFCC00;}
+.header_left{width:30%; float:left; height:30px; text-align:right; font-size:11px; color:#56778b; padding-top:40px;}
+.header_left a{font-size:11px; color:#333; text-decoration:underline; float:none}
+.header_left span{float:none; padding:0 10px 0 10px}
+.header_left a:hover{font-size:11px; color:#FFFFFF; text-decoration:underline; background-color:#2d2d2d}
+.logo{width:40%; float:left; height:87px; font-size:30px; font-weight:bold; padding-top:21px;}
+
+.top_links{float:right; text-align:right; width:45%; margin:10px; color:#666666; line-height:18px;}
+.top_links a{color:#032a7a; font-weight:bold; float:none; margin:5px; text-decoration:underline; margin-left:10px;}
+.top_links a img{vertical-align:middle;}
+.top_links a:hover{text-decoration:none;}
+.top_links span{color:#666666; float:none; margin:7px 5px 7px 3px;}
+
+
+/*----------------------------------body container-------------------------------*/
+.body_container{margin-left:auto; margin-right:auto; width:100%; margin-top:10px;}
+.container_left{float:left; width:100%;}
+.container_left_title{float:left; width:98%; padding-left:2%; background:url(../images/sub_menu_bottombg.jpg) bottom repeat-x;}
+.container_left_content{float:left; width:97%; padding-top:10px; padding-bottom:10px; padding-left:2%; padding-right:1%; background-color:#ffffff;}
+.container_left_half{ float:left; width:49%;}
+.container_right{float:left; width:27%; padding-left:1%; padding-bottom:20px;}
+.seprator{float:left; width:100%; background:none;}
+
+.left_content{width:100%; border:1px solid #c3c4c6; padding:0px; border-top:none; border-bottom:none; border-right:none; }
+.left_content img{margin:0 2px 0 2px;}
+.left_content a{color:#032a7a; text-decoration:underline;}
+.left_content a:hover{text-decoration:none;}
+.border_none{border:none;}
+.border_bottom_none{border-right:none;}
+.left_content .heading a{ color:#000;}
+.left_content .heading td{color:#3d3c3c;}
+.dashboard_title{width:100%; color:#000; font-size:13px; font-weight:bold; background:url(../images/dashboard_title.gif) top left repeat-x; padding:5px 4px 5px 5px; margin:5px 0 10px 0; border-bottom:1px #7986a9 solid;} 
+.dashboard_title span{font-size:12px; font-weight:normal;}
+.dashboard_title_small{width:49%; color:#fff; font-size:13px; font-weight:bold; background-color:#d1850e; padding:5px 4px 5px 5px; margin:5px 0 10px 0;}
+.content_title{float:left; padding:0; font-size:13px; font-family:Tahoma; font-weight:bold; width:100%; color:#000;}
+.right_panel{width:100%; background-color:#ffffe5; border:1px #e8e8b9 solid; padding:5px; font-size:12px;}
+
+/*-------------------------help------------------------*/
+.help{float:left; width:99%; background-color:#f1f2d5; padding:1%; font-weight:bold}
+.help_content{float:left; width:99%; background-color:#fff; padding:1%;}
+/*-----------------------------table----------------------*/
+#agent .heading td{background-color:#cbcaca; text-align:left; color:#333333; padding:2px 0 2px 6px; font-size:12px; font-weight:bold;}
+
+#agent .heading .ck{width:5%}
+#agent .heading .agent_name{width:15%}
+#agent .heading .agent_email{width:28%}
+#agent .heading .tnp{width:5%; text-align:left}
+#agent .heading .agent_status{width:14%;text-align:left}
+#agent .heading .date{width:18%}
+#agent .heading .action{width:14%;}
+#agent .content td{text-align:left; width:auto; color:#000000; border-right:1px solid #e7e7e7; border-bottom:1px solid #e7e7e7; padding:3px 0 2px 6px; font-size:12px;}
+#agent .content .border_right_none{border-right:none;}
+#agent .content .border_right_none img{ margin:0 2px 0 2px}
+
+span a{color:#FF6633; text-decoration:underline; padding:0 4px;}
+span a:hover{text-decoration:none;}
+
+.heading td{background-color:#dadada; text-align:left; color:#000; padding:4px 0 4px 6px; font-size:12px; font-weight:bold; border-bottom:1px solid #fff}
+.heading th{background-color:#dadada; text-align:center; color:#333333; padding:4px 0 4px 6px; font-size:12px; font-weight:bold; border-bottom:1px solid #fff}
+
+.heading_none td{background-color:#ffc66c; text-align:left; color:#333333; padding:4px 6px 4px 6px; font-size:12px; font-weight:bold;}
+.heading_none a{color:#000000; text-decoration:underline;}
+.heading_none a:hover{color:#000000; text-decoration:none;}
+
+
+.content td{text-align:left;  color:#333; border-right:1px solid #c3c4c6; border-bottom:1px solid #c3c4c6; padding:4px 0 4px 6px; font-size:12px; background:#f5f6f9;}
+.content_expire td{text-align:left;  color:#333; border-right:1px solid #c3c4c6; border-bottom:1px solid #c3c4c6; padding:4px 0 4px 6px; font-size:12px; background:#99FF99;}
+
+
+.content_1 td{text-align:left; width:auto; color:#333; padding:4px 0 4px 6px; font-size:12px; background:#d6d5d6; font-weight:bold;}
+.color_red{color:#FF0000;}
+.color_green{color:#009900;}
+.content .border_right_none{border-right:none;}
+.content_bg1 td{text-align:left; width:auto; color:#000000; padding:4px 0 4px 6px; font-size:12px; background-color:#fffce5;}
+.content_bg td{text-align:left; width:auto; color:#000000; padding:4px 0 4px 6px; font-size:12px;}
+
+
+
+/*----------------------------------menu------------------------------------*/
+#menu{width:100%; height:30px;  float:left; padding-top:8px; font-family:Tahoma;}
+#menu ul{margin:0 0 0 0; padding:0;}
+#menu li{ float:left; color:#393a3b; font-size:11px; list-style:none; text-transform:capitalize; margin-right:1px;}
+#menu li a{background:#032a7a; color:#fff; text-decoration:none; margin:0;  padding:5px 10px 5px 10px; display:block;height:20px; float:left; border:1px solid #032a7a; border-bottom:0; font-weight:bold;}
+#menu li a:hover{background:url(../images/button_over.jpg) top right repeat-x; height:20px; color:#032a7a; font-weight:bold;}
+#menu .current{text-decoration:none; background:url(../images/button_over.jpg) top right repeat-x; height:20px; color:#032a7a; margin:0;  padding:5px 10px 5px 10px; display:block; margin-right:1px; border:1px solid #5a747d; border-bottom:none; font-weight:bold;}
+
+/*----------------------------------submenu------------------------------------*/
+#submenu{width:100%; float:left; padding-top:8px; font-family:Tahoma;}
+#submenu ul{margin:0 0 0 0; padding:0;}
+#submenu li{float:left; color:#393a3b; font-size:11px; list-style:none; text-transform:capitalize; margin-right:1px;}
+#submenu li a{background:url(../images/button_over.jpg) top right repeat-x; color:#032a7a; text-decoration:none; margin:0;  padding:5px 10px 5px 10px; display:block; float:left; border:1px solid #a9b1c6; font-weight:bold;}
+#submenu li a:hover{color:#a9b1c6; background:#fff; border-bottom:1px solid #FFFFFF}
+#submenu .current{text-decoration:none; background:#fff; color:#a9b1c6; margin:0;  padding:5px 10px 5px 10px; display:block; margin-right:1px; border:1px solid #a9b1c6; border-bottom:1px solid #FFFFFF}
+
+/*--------------------------------form---------------------------------------*/
+form{width:100%; margin:0px; padding:0px; font-weight:normal; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+
+.button{background:#CC0000; color:#fff; font-size:12px; font-weight:bold; width:auto; padding:4px; border:none; margin-right:10px; cursor:pointer}
+.button:hover{background:#575044;}
+
+form fieldset{padding:20px; border:none; margin:0;}
+form input{margin:0; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+form select{width:130px; margin:0; font-weight:normal; font-family:Arial, Helvetica, sans-serif; font-size:12px; float:left; border:#CCCCCC 1px solid;}
+form label{width:180px; float:left; text-align:right; margin:10px 0 0 30px; font-weight:bold; padding:0; display:block}
+form .auto{width:auto; border:none; float:left;}
+form .ckbox{width:auto; border:none; float:left; margin:0; padding:0}
+br{clear:both}
+small{width:auto; margin:10px 0 0 30px; float:left; font-size:12px;}
+
+.nomargin{margin:10px 0 0 10px;}
+#login_logo{margin:60px auto 0 auto; position:relative; width:500px; text-align:center}
+#login{margin:0 auto 0 auto; position:relative; width:500px; text-align:center}
+#login strong{display:block; font-size:18px; color:#666; padding:20px}
+#login form{font-weight:normal;width:465px; font-family:Arial, Helvetica, sans-serif; font-size:12px; background-color:#b5bdda; float:left; border:1px solid #6e7f85; padding:10px; margin:0px;}
+#login form fieldset{ width:432px; margin:0px; border: 1px solid #6e7f85; float:left; padding:15px; background-color:#e4e7f4;}
+#login form legend{font-weight:bold; font-size:14px; color:#666666; margin:0px;}
+#login form input{width:170px; font-family:Arial, Helvetica, sans-serif; font-size:12px; border:1px #CCCCCC solid; margin:10px 0 0 10px; float:left;}
+#login form select{width:202px; font-weight:normal; font-family:Arial, Helvetica, sans-serif; font-size:12px; border:1px #CCCCCC solid; float:left; margin:10px 0 0 0;}
+#login form label{width:150px; float:left; text-align:right;  font-weight:bold; padding:0; display:block;margin:10px 0 0 0;}
+#login form .auto{width:auto; border:none; float:left;}
+#login form .ckbox{width:auto; border:none; float:left; margin:0; padding:0}
+#login br{clear:both}
+#login small{width:250px; font-size:12px; text-align:left; float:left; margin:10px 0 1px 10px;}
+#login img{float:left; margin:10px 0 1px 10px;}
+#login label a{color:#000000; text-decoration:underline; text-align:left; font-weight:normal;}
+#login label a:hover{color:#778a90; text-decoration:none;}
+#login .auto_button{ width:auto; }
+#login .nomargin{}
+
+.container_right form{width:100%; margin:0; padding:0; font-weight:normal; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+.container_right form fieldset{padding:10px; border:1px solid #6f3e2d; margin:0;}
+.container_right form input{width:50%; margin:10px 0 0 10px;  font-family:Arial, Helvetica, sans-serif; font-size:12px; border:1px #CCCCCC solid; float:left}
+.container_right form select{width:51%; margin:10px 0 0 10px; font-weight:normal; font-family:Arial, Helvetica, sans-serif; font-size:12px; border:1px #CCCCCC solid; float:left}
+.container_right form .select{width:24%; margin:10px 0 0 10px; font-weight:normal; font-family:Arial, Helvetica, sans-serif; font-size:12px; border:1px #CCCCCC solid; float:left}
+.container_right form label{width:35%; float:left; text-align:right; margin:10px 0 0 10px; font-weight:bold; padding:0; display:block}
+.container_right form .auto{width:auto; border:none; float:left;}
+.container_right br{clear:both}
+.container_right form legend{font-weight:bold; padding:0 10px 0 10px;}
+.container_right small{width:auto; margin:10px 0 0 10px; float:left; font-size:12px;}
+.container_right .auto_button{ width:auto}
+.container_right .nomargin{margin:10px 0 0 10px;}
+
+/* error, success and msg table css start here */
+.error{background-image:url(../../admin/images/error.gif); background-position:top left;background-repeat:no-repeat; padding:8px 0 10px 35px; font-weight:normal;  line-height:18px;float:left;font-weight:bold; font-size:12px; color:#FF0000;}
+
+.success{background-image:url(../../admin/images/sucess.gif); background-position:top left; background-repeat:no-repeat; padding:10px 0 10px 40px; font-weight:normal; line-height:18px; font-weight:bold; font-size:13px; color:#366036;}
+
+/* this table contains all error and success messages*/
+.table_msg{padding:8px 0 8px 0;border:#c3c4c6 3px solid; background-color:#f5f6f9;}
+/* error, success and msg table css end here */
+
+.visible_none{
+display:none;
+}
+
+input{font-size:13px; border:1px #CCCCCC solid;}
+
+/*----------------------------------footer----------------------------------*/
+#footer{ float:left; width:100%; padding:10px 0 20px 0; font-size:11px;}
+.bottom_shadow{background-image:url(../../admin/images/bg_body_bottom.jpg); background-repeat:repeat-x; background-position:top; float:left; width:100%;}
+.bottom_curve{background-image:url(../../admin/images/bg_body_bottom_curve.jpg); background-position:right top; background-repeat:no-repeat; width:99%; padding-left:1%; height:8px;}
+
+a.logout{background:url(../images/logout.png) left bottom no-repeat; padding-left:25px; padding-bottom:3px; padding-top:2px;}
+a.preview{background:url(../images/preview_ico.jpg) left bottom no-repeat; padding-left:20px; padding-bottom:0px; padding-top:2px;}
+.last_login{background:url(../images/worldclock.png) left bottom no-repeat; padding-left:25px; padding-bottom:2px; padding-top:2px;}

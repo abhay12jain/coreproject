@@ -1,0 +1,20 @@
+/*IE does not support display:table; use floats instead*/
+#header .centeringWrap {display:inline-block;}
+#header h1 {float:left;margin-left:15px;}
+#header ul {float:left;}
+#header .primary_r {float:right;}
+#header ul li , #header ul li a {float:left;}
+#header ul li {display:inline;}
+/*here using a different method to center the category navi below the logo*/
+#header .MainCatsNav {float:left;width:100%;overflow:hidden;position:relative;}
+#header .MainCatsNav ul  { clear:left;float:left;list-style:none;position:relative;left:50%;text-align:center;border:0 none;}
+#header .MainCatsNav ul li {display:block;float:left;position:relative;right:50%;border:1px solid #543a37;border-right:0 none;border-left:0 none;}
+#footnotes li {float:left;width:25%;}
+#footnotes .print a {padding-top:1px;}
+#footnotes .share a {padding-top:5px;}
+#footnotes .subscribe a {padding-top:4px;}
+.prodDetails {display:inline-block;}
+.typeradioselect, .select {margin-bottom:18px;}
+#colorInput, #sizeInput {height:0;}/*fix the extra space that appears when selecting colour and size*/
+.faq ul {display:inline-block;}/*give haslayout*/
+#createAccount #pt2 input, #createAccount #pt3 input {margin-left:-15px;}/*fix for IE inherited margin bug on input form elements*/

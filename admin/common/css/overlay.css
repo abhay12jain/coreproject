@@ -1,0 +1,24 @@
+/* the overlayed element */
+.overlay {
+	/* growing background image */
+	background-image:url(../images/offwhite.png);
+	
+	/* dimensions after the growing animation finishes  */
+	width:600px;
+	height:470px;		
+	
+	/* initially overlay is hidden */
+	display:none;
+	
+	/* some padding to layout nested elements nicely  */
+	padding:55px;
+	position:relative;
+	color:#210300;
+}
+
+/* default close button positioned on upper right corner */
+.overlay .close {background-image:url(../images/close.png);position:absolute;right:5px;top:5px;cursor:pointer;height:28px;width:28px;}
+.mediumoverlay {background:url(../images/offwhitemedium.png);width:300px;height:245px;}
+.largeoverlay {background:url(../images/offwhitelarge.png);width:700px;height:550px;}
+.largeoverlay .close {right:15px;top:15px;}
+.mediumoverlay .close {right:0;top:0;}

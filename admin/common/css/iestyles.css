@@ -1,0 +1,17 @@
+/*------------------------header start-------------------*/
+div#header input{color:#010101; float:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; _padding:1px 0 0 0; margin:0 6px 0 0; width:222px; line-height:15px; height:16px}
+/*------------------------header end-------------------*/
+
+/*----------------right container start--------------------*/
+div#best_deals input{float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#000; padding:0; margin:5px 0 0 0}
+/*----------------right container end--------------------*/
+
+
+
+div#special_offer #special_product div.price_offer{float:left; width:111px; position:absolute; left:80px; top:75px; background:url(../images/special_offer_text.png) left bottom repeat-x; height:73px; *background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='common/images/special_offer_text.png',sizingMethod='scale');}
+
+div#new_proposal div.price_new{float:left; width:111px; height:73px; background:red; position:absolute; background:url(../images/new_proposal_price.png) left no-repeat; left:80px; top:130px; *background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='common/images/new_proposal_price.png',sizingMethod='scale');}
+
+
+
+

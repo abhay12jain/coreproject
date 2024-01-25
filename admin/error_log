@@ -1,0 +1,227 @@
+[21-Jun-2019 13:56:57 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 13:57:09 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 13:57:27 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 13:57:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:00:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:01:34 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:08:03 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:08:03 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:08:03 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:08:03 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:08:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:09:02 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:09:09 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:09:24 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[21-Jun-2019 14:09:27 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[24-Jun-2019 05:42:47 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ipraxala/public_html/funeral/admin/common/classes/class.database.php on line 55
+[25-Jun-2019 05:30:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 166
+[25-Jun-2019 05:31:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 166
+[25-Jun-2019 05:33:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 167
+[25-Jun-2019 05:33:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 167
+[25-Jun-2019 05:33:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 167
+[25-Jun-2019 05:33:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 167
+[25-Jun-2019 05:36:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 167
+[25-Jun-2019 05:36:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 167
+[25-Jun-2019 05:36:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 167
+[25-Jun-2019 05:37:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 167
+[25-Jun-2019 05:38:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 167
+[25-Jun-2019 05:38:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/ipraxala/public_html/funeral/admin/condolencelist.php on line 167
+[25-Jun-2019 05:39:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Paging' not found in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php:20
+Stack trace:
+#0 /home/ipraxala/public_html/funeral/admin/condolencelist.php(15): Factory::getInstanceOf('Paging')
+#1 {main}
+  thrown in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php on line 20
+[25-Jun-2019 05:39:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Paging' not found in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php:20
+Stack trace:
+#0 /home/ipraxala/public_html/funeral/admin/condolencelist.php(15): Factory::getInstanceOf('Paging')
+#1 {main}
+  thrown in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php on line 20
+[25-Jun-2019 05:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Paging' not found in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php:20
+Stack trace:
+#0 /home/ipraxala/public_html/funeral/admin/condolencelist.php(15): Factory::getInstanceOf('Paging')
+#1 {main}
+  thrown in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php on line 20
+[25-Jun-2019 05:40:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Paging' not found in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php:20
+Stack trace:
+#0 /home/ipraxala/public_html/funeral/admin/condolencelist.php(15): Factory::getInstanceOf('Paging')
+#1 {main}
+  thrown in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php on line 20
+[25-Jun-2019 05:40:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Paging' not found in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php:20
+Stack trace:
+#0 /home/ipraxala/public_html/funeral/admin/condolencelist.php(15): Factory::getInstanceOf('Paging')
+#1 {main}
+  thrown in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php on line 20
+[25-Jun-2019 05:40:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Paging' not found in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php:20
+Stack trace:
+#0 /home/ipraxala/public_html/funeral/admin/condolencelist.php(15): Factory::getInstanceOf('Paging')
+#1 {main}
+  thrown in /home/ipraxala/public_html/funeral/admin/common/classes/class.factory.php on line 20
+[25-Jun-2019 09:20:55 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:20:55 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:30 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:31 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:31 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:31 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:32 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:32 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:32 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:32 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:32 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:32 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:32 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:32 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:34 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:34 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:34 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:21:34 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password.php on line 2
+[25-Jun-2019 09:31:26 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/forgot_password_action.php on line 3
+[25-Jun-2019 09:31:26 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/forgot_password_action.php on line 3
+[25-Jun-2019 09:32:11 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 136
+[25-Jun-2019 09:34:41 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 136
+[25-Jun-2019 09:53:16 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 136
+[25-Jun-2019 09:53:20 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 136
+[25-Jun-2019 09:53:30 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 136
+[25-Jun-2019 09:53:30 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 136
+[25-Jun-2019 09:53:31 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 136
+[25-Jun-2019 10:04:36 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 136
+[25-Jun-2019 10:04:54 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 136
+[25-Jun-2019 10:17:55 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 10:27:24 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 10:28:26 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 10:28:41 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 10:28:59 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 10:32:09 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 10:35:45 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 10:44:17 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 10:46:20 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 10:47:35 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 10:49:33 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 11:00:54 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 11:02:54 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 11:03:24 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[25-Jun-2019 11:03:34 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/reset_password.php on line 3
+[25-Jun-2019 11:03:34 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/reset_password.php on line 3
+[25-Jun-2019 11:07:28 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/reset_password_action.php on line 2
+[25-Jun-2019 11:07:28 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/reset_password_action.php on line 2
+[25-Jun-2019 11:07:55 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/reset_password_action.php on line 2
+[25-Jun-2019 11:07:55 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/reset_password_action.php on line 2
+[25-Jun-2019 11:07:58 UTC] PHP Warning:  require_once(../common/config/config.inc.php): failed to open stream: No such file or directory in /home/ipraxala/public_html/funeral/admin/reset_password_action.php on line 2
+[25-Jun-2019 11:07:58 UTC] PHP Fatal error:  require_once(): Failed opening required '../common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ipraxala/public_html/funeral/admin/reset_password_action.php on line 2
+[25-Jun-2019 11:10:00 UTC] PHP Warning:  Creating default object from empty value in /home/ipraxala/public_html/funeral/admin/common/classes/class.admin_login.php on line 271
+[26-Jun-2019 08:03:26 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:03:35 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:04:49 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:04:49 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:04:50 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:04:55 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:05:57 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:06:00 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:06:06 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:07:32 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:07:36 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:08:30 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:08:32 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:09:18 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:10:00 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:10:02 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:10:07 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:10:10 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:11:12 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:11:14 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:11:14 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:11:28 UTC] PHP Parse error:  syntax error, unexpected '$changeStatus' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 276
+[26-Jun-2019 08:42:54 UTC] PHP Fatal error:  Cannot redeclare Condolence::changeStatus() in /home/ipraxala/public_html/funeral/admin/condolence/condolence_class/class.condolence.php on line 294
+[26-Jun-2019 09:34:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Condolence::getBlockedIP() in /home/ipraxala/public_html/funeral/admin/condolence_action.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ipraxala/public_html/funeral/admin/condolence_action.php on line 17
+[26-Jun-2019 10:16:33 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/ipraxala/public_html/funeral/admin/condolence_action.php on line 35
+[26-Jun-2019 10:21:45 UTC] PHP Parse error:  syntax error, unexpected '$k' (T_VARIABLE) in /home/ipraxala/public_html/funeral/admin/condolence_action.php on line 19
+[26-Jun-2019 10:29:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ipraxala/public_html/funeral/admin/condolence_action.php on line 25
+[26-Jun-2019 10:42:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ipraxala/public_html/funeral/admin/condolence_action.php on line 19
+[26-Jun-2019 10:42:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ipraxala/public_html/funeral/admin/condolence_action.php on line 25
+[26-Jun-2019 10:53:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ipraxala/public_html/funeral/admin/condolence_action.php on line 19
+[26-Jun-2019 10:53:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ipraxala/public_html/funeral/admin/condolence_action.php on line 25
+[26-Jun-2019 11:16:39 UTC] PHP Warning:  html_entity_decode(): charset `175' not supported, assuming utf-8 in /home/ipraxala/public_html/funeral/admin/obituarieslist.php on line 144
+[26-Jun-2019 11:16:39 UTC] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/ipraxala/public_html/funeral/admin/obituarieslist.php on line 144
+[26-Jun-2019 11:16:39 UTC] PHP Warning:  html_entity_decode(): charset `175' not supported, assuming utf-8 in /home/ipraxala/public_html/funeral/admin/obituarieslist.php on line 144
+[26-Jun-2019 11:16:39 UTC] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/ipraxala/public_html/funeral/admin/obituarieslist.php on line 144
+[26-Jun-2019 11:16:39 UTC] PHP Warning:  html_entity_decode(): charset `175' not supported, assuming utf-8 in /home/ipraxala/public_html/funeral/admin/obituarieslist.php on line 144
+[26-Jun-2019 11:16:39 UTC] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/ipraxala/public_html/funeral/admin/obituarieslist.php on line 144
+[26-Jun-2019 11:16:39 UTC] PHP Warning:  html_entity_decode(): charset `175' not supported, assuming utf-8 in /home/ipraxala/public_html/funeral/admin/obituarieslist.php on line 144
+[26-Jun-2019 11:16:39 UTC] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/ipraxala/public_html/funeral/admin/obituarieslist.php on line 144
+[26-Jun-2019 11:16:39 UTC] PHP Warning:  html_entity_decode(): charset `175' not supported, assuming utf-8 in /home/ipraxala/public_html/funeral/admin/obituarieslist.php on line 144
+[26-Jun-2019 11:16:39 UTC] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/ipraxala/public_html/funeral/admin/obituarieslist.php on line 144
+[26-Jun-2019 12:43:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ipraxala/public_html/funeral/admin/condolence_action.php on line 19
+[26-Jun-2019 12:43:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ipraxala/public_html/funeral/admin/condolence_action.php on line 25
+[27-Jun-2019 12:09:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/clientuat/public_html/funeral/admin/obituarieslist.php on line 200
+[28-Jun-2019 12:23:08 UTC] PHP Warning:  require_once(/home/clientuat/public_html/funeral/admin/components/class.validation.inc.php): failed to open stream: No such file or directory in /home/clientuat/public_html/funeral/admin/common/config/config.inc.php on line 60
+[28-Jun-2019 12:23:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clientuat/public_html/funeral/admin/components/class.validation.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/clientuat/public_html/funeral/admin/common/config/config.inc.php on line 60
+[12-Oct-2020 14:50:11 UTC] PHP Warning:  move_uploaded_file(./common/uploaded_files/obituaries/c010c08417cd0025fa6ac4ff83985287.jpg): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/obituaries/obituaries_class/class.obituaries.php on line 163
+[12-Oct-2020 14:50:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiC7LdZ' to './common/uploaded_files/obituaries/c010c08417cd0025fa6ac4ff83985287.jpg' in /home/kaiserfuneral/public_html/admin/obituaries/obituaries_class/class.obituaries.php on line 163
+[12-Oct-2020 14:50:30 UTC] PHP Warning:  move_uploaded_file(./common/uploaded_files/obituaries/7332e263d0663257e0f2fefad427d4af.jpg): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/obituaries/obituaries_class/class.obituaries.php on line 163
+[12-Oct-2020 14:50:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwK9xCV' to './common/uploaded_files/obituaries/7332e263d0663257e0f2fefad427d4af.jpg' in /home/kaiserfuneral/public_html/admin/obituaries/obituaries_class/class.obituaries.php on line 163
+[12-Oct-2020 15:42:04 UTC] PHP Warning:  move_uploaded_file(./common/uploaded_files/obituaries/7bfa71b5226d43a26510bf737e38c783.jpg): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/obituaries/obituaries_class/class.obituaries.php on line 163
+[12-Oct-2020 15:42:04 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOtfZ1R' to './common/uploaded_files/obituaries/7bfa71b5226d43a26510bf737e38c783.jpg' in /home/kaiserfuneral/public_html/admin/obituaries/obituaries_class/class.obituaries.php on line 163
+[19-Jan-2021 15:06:10 UTC] PHP Warning:  POST Content-Length of 12441397 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Jan-2021 15:07:34 UTC] PHP Warning:  POST Content-Length of 12441403 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Jan-2021 15:10:54 UTC] PHP Warning:  POST Content-Length of 12441402 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Jan-2021 15:14:53 UTC] PHP Warning:  POST Content-Length of 12441402 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jul-2021 15:27:09 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:09 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:14 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:14 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:17 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:17 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:24 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:24 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:33 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:33 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:34 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:34 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:49 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:27:49 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:28:02 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:28:02 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:28:03 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:28:03 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:28:03 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:28:03 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:28:36 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:28:36 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:29:50 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:29:50 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:30:33 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:30:33 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:31:03 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:31:03 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:31:21 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:31:21 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:33:48 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:33:48 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:39:18 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:39:18 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:41:24 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:41:24 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:54:52 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 15:54:52 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 16:19:25 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 16:19:25 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 16:26:55 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 16:26:55 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 18:51:57 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 18:51:57 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 18:52:00 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 18:52:00 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 19:28:17 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 19:28:17 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 19:46:02 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 19:46:02 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 20:35:49 UTC] PHP Warning:  require_once(./common/config/config.inc.php): failed to open stream: No such file or directory in /home/kaiserfuneral/public_html/admin/index.php on line 2
+[22-Jul-2021 20:35:49 UTC] PHP Fatal error:  require_once(): Failed opening required './common/config/config.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/kaiserfuneral/public_html/admin/index.php on line 2

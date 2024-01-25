@@ -1,0 +1,150 @@
+/*--------------style default css-----------------------*/
+html, body, div, span, small, object, iframe, h1, h2, h3, h4, h5, h6, pre, a, abbr, blockquote, acronym, address, code, del, dfn, dl, dt, dd, em, img, q, ol, ul, li, fieldset, form, label, legend, caption, tbody, tfoot, thead, b,p{border:0;font-size:100%;font-family:inherit;}
+img, input{behavior:url("iepngfix.htc")}
+body{background:#d5d5d5;font-family:Arial, Helvetica, sans-serif!important;font-size:12px!important;line-height:1.5em;color:#000000;margin:0; min-width:980px; border:none!important}
+.clearfix:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0;}
+.clearfix{display:inline-block;}
+html[xmlns].clearfix{display:block;}
+* html .clearfix{height:1%;}
+
+#wrapper{width:100%;height:auto;margin:auto;}
+#toppart{width:100%;height:auto;margin:auto;}
+#footer{float:left!important;width:100%;height:100px; min-width:960px!important;background:#414141; position: relative !important;}
+p.copyright{color:#cecece;font:1em Arial, Helvetica, sans-serif;margin:auto;padding:10px 20px;}
+#header{background:#ffffff url(../images/header.gif) repeat-x bottom left;height:108px;width:100%;}
+.logo{margin:auto; margin:45px 0 0 30px; display:inline}
+#header span{padding:30px 30px;font:bold 1em Arial, Helvetica, sans-serif;color:#484848;}
+#header span small{font:11px Arial, Helvetica, sans-serif;color:#f64e40;}
+.logo a:link{color:#484848;}
+.logo a:hover{color:#ffffff;}
+#middlepart{float:left;width:96%;height:100%;background:#d5d5d5;padding:20px 20px; min-width:1000px}
+#leftcolumn{width:70%;padding:10px 10px;background:#ffffff;float:left;color: black;}
+#fullWidthcolumn{width:100%;padding:10px 10px;background:#ffffff;float:left;color: black;}
+#leftcolumn strong.head{font-size:16px; line-height:18px;}
+#rightcolumn{width:25%;padding:10px;background:#ffffff;float:right;}
+.settingsblock{width:auto;background:#414141 url(../images/settingsbg.gif) top left repeat-x;padding:0px 10px 5px 10px;height:70px;margin:auto 0 0px 0;clear:both;}
+.settingsblock div{float:left;font:normal 2em Arial, Helvetica, sans-serif;color:#CCCCCC;padding:20px 0 0 10px;}
+.settingsblock div a:visited, .settingsblock div a:active, .settingsblock div a:link{background:url(../images/arrow.gif) 0% 50% no-repeat;padding:10px 10px;float:left;}
+.settingsblock img{vertical-align:middle;}
+.settingsblock a:link, .settingsblock a:visited, .settingsblock a:active{border:0px solid #d9d9d9;display:inline-block;margin:0 5px 0 0;float:right;padding:5px;color:#fff;font:normal 10px tahoma, Helvetica, sans-serif;font-weight:bold;text-align:center;}
+.settingsblock a:hover{color:#f64e40;}
+#submenu img{vertical-align:middle;}
+.loginform{border-top:0px solid #414141;padding:10px;}
+#login form .remember{float:left;}
+form.loginform label{float:left;}
+form.loginform input{clear:left;}
+#login .forgot{clear:both;float:left;}
+#login form .submit input{padding:3px 8px; width:100px;border:none;background:#39b54a;text-transform:uppercase;text-decoration:none;color:#ffffff; margin-right:20px; display:inline;}
+#login form .submit input:hover{padding:3px 8px;width:100px;border:none;color:#ffffff;background:#007236;text-decoration:none;text-transform:uppercase;}
+form .submit{float:right;}
+#login{width:550px;margin:1em auto;}
+#login label{display:block;float:left;width:100px;padding:0 10px 0 0;margin:6px 0 0;text-align:right;}
+#login input{width:170px}
+
+#userpass, #userlogin, #useremail , #frmAdminPassword, #frmAdminUserName, #frmUserName, #frmSecurityCode{font-size:12px;width:97%;padding:3px;}
+#frmUserName, #frmSecurityCode, #frmConfirmNewPassword, #frmNewPassword{font-size:12px;width:50%;padding:3px;}
+a:link, a:visited, a:active{color:#484848;text-decoration:none;}
+a:hover{color:#f64e40;text-decoration:none;}
+h1{font-size:30px;margin:10px 0;font-weight:normal;}
+h2{font-size:210%;margin:8px 0;font-weight:normal;}
+h2.temp{font-size:210%;margin:0 0 10px;font-weight:normal;}
+h3{font-size:180%;margin:7px 0;font-weight:normal;}
+h3.condi{font-size:16px;margin:0 0 0 10px;font-weight:bold; color:red;}
+h4{font-size:140%;margin:5px 0;font-weight:normal;}
+h4.educate{font-size:18px;font-weight:normal; color:#F00;}
+h5{font-size:110%;margin:5px 0;font-weight:normal;}
+h6{font-size:92.5%;margin:5px 0;font-weight:normal;}
+pre, code{font:1em/1.4em"Courier News", monospace;color:#484848;line-height:1.5em;}
+.success{background:#e0ecd1 url(../images/success.gif) no-repeat 12px 50%;border:1px solid #60a400;border-width:5px 0 0 0;color:#60a400;}
+.error{background:#ffe3e1 url(../images/error.gif) no-repeat 12px 50%;border:1px solid #f14545;border-width:5px 0 0 0;color:#f14545;}
+.notice{background:#fff0db url(../images/warning.gif) no-repeat 12px 50%;border:1px solid #e7a74c;border-width:5px 0 0 0;color:#e7a74c;}
+.notice, .success, .error{font-size:100%;padding:10px 10px 10px 40px;width:auto;margin:0 0 20px 0;text-align:left;}
+.notice span, .success span, .error span{font-weight:bold;font-size:18px;padding:2px 40px;}
+.success p, .error p, .notice p{margin:0;padding:0 40px;color:#333333;}
+.nums ul{margin:0;padding:0 10px;}
+.nums li{list-style:decimal;}
+.squares ul{margin:0;padding:0 10px;}
+.squares li{list-style:square;padding:0;}
+.circles ul{margin:0 10px;padding:0 10px;float:right;}
+.circles li{list-style:circle;vertical-align:top;}
+.notes{background:#e8e8e8;border:1px solid #c5c5c5;border-top:7px solid #414141;}
+.notes{font-size:100%;color:#484848;padding:20px;width:auto;margin:0 0 10px 0;text-align:left;}
+.notes p{margin:0;padding:0;clear:both;}
+/*.notes span{font-weight:bold;font-size:1.2em;padding-bottom:2px;margin-bottom:10px;}*/
+.pagelink{width:10px;background:#e7e8e8 url(../images/page.gif) repeat-x bottom left;border:1px solid #b2b2b2;color:#787878;clear:both;line-height:35px;text-decoration:none;}
+a.pagelink:active, a.pagelink:visited, a.pagelink:link{width:10px;background:url(../images/page.gif) repeat-x bottom left;border:1px solid #b2b2b2;color:#787878;padding:6px;}
+a.pagelink:hover{width:10px;background:#fff url(../images/page.gif) repeat-x bottom left;border:1px solid #b2b2b2;color:#f64e40;padding:6px;}
+.pagecurrent{width:10px;background:#fff url(../images/page.gif) repeat-x bottom left;border:1px solid #b2b2b2;color:#f64e40;padding:6px;}
+.mainbox{width:auto;}
+div.boxcontainer{color:#888;width:30%;float:left;min-height:100px;font:normal 10px Tahoma, Arial, Helvetica, sans-serif;background:#ffffff url(../images/boxb.gif) repeat-x top left;padding:5px;margin:0 0 1% 1%;border:1px solid #c6c6c6;}
+.boxcontainer h4{float:none;font-size:18px;margin:0;font-family:Arial, Tahoma, Verdana, Sans-serif;padding-bottom:2px;}
+.boxcontainer h4{padding:5px 0 5px 0;}
+a img.box_thumb, a:visited img.box_thumb{float:left;margin-right:10px;padding:5px;border:1px solid #7a7a7a;background:#7a7a7a;}
+a:hover img.box_thumb{background:#fff;}
+.button{background:#CC0000;color:#fff;font-size:12px;font-weight:bold;width:auto;padding:4px;border:none;margin:0 0 0 0px;cursor:pointer}
+.button.space{margin:0 0 0 135px;}
+.button.space1{margin:0 0 0 160px;}
+.button:hover{background:#575044;}
+a.submit:visited,a.submit:active,a.submit:link, a.add:visited,a.add:active,a.add:link, a.publish:visited,a.publish:active,a.publish:link, a.edit:visited,a.edit:active,a.edit:link, a.delete:visited,a.delete:active,a.delete:link, a.reset:visited,a.reset:active,a.reset:link{width:auto;margin:0 2px 0 0;padding:2px 8px;text-transform:uppercase;font:bold 10px"Lucida Grande", Arial, Helvetica, sans-serif;color:#fff;white-space:nowrap;text-decoration:none;}
+a.publish{background:#afd2ea;color:#ffffff;}
+a.publish:hover{background:#0072bc;color:#ffffff;}
+a.edit{background:#949ca1;color:#000000;}
+a.edit:hover{background:#727c82;color:#ffffff;}
+a.delete{background:#ffb5b5;color:#ffffff;}
+a.delete:hover{background:#d80047;color:#ffffff;}
+a.add{background:#00a651;color:#fff; font-size:12px; padding:6px 8px!important; margin-left:20px!important; float:left;}
+a.add.emp_atach{background:#00a651;color:#fff; margin:10px 0 0 0!important; float:left;}
+a.add.education{background:#00a651;color:#fff; margin:0!important; float:left;}
+a.add:hover{background:#f43f3f;color:#ffffff;}
+a.reset{background:#96aabf;color:#ffffff;}
+a.reset:hover{background:#6f7f90;color:#ffffff;}
+a.submit{background:#12486b;color:#ffffff;}
+a.submit:hover{background:#000000;color:#ffffff;}
+
+.feedback{}
+.feedback label{margin:0!important;}
+
+/*Forgot password*/
+#frm_forgot_pass { font: 12px Geneva,arial,sans-serif;    margin: 0;    padding: 4px 0;    width: 100%;}
+#frm_forgot_pass  label {display: block;float: left;margin: 6px 0 0;padding: 0 10px 0 0;text-align: right;width: 140px; }
+#frm_forgot_pass  img { margin-top:10px; }
+#frm_forgot_pass  small { display: block;    font-size: 88%;    margin: 0 0 5px 150px;    padding: 1px 3px; }
+#frm_forgot_pass  .button { width:80px!important;}
+
+
+/*------------------------------[end] style default css------------------------------*/
+
+
+
+
+.text_line_through{	background:#ECE9D8;}
+.text_line_through input{readonly:readonly;disabled:disabled;}
+.pagination{padding:10px 0;}
+.claer{clear:both;}
+.dim{opacity:0.3;}
+
+/*---welcome page calender --*/
+.fc-header-right{width:90%;  float:right; height:47px}
+fc-header-left{float:left;}
+.fc-header-title h2{font-size:150%!important;}
+
+#calendar{min-width:300px;}
+/*#right_calender {overflow:auto; }*/
+.employee_list_seperator{ width:100%; float:left;}
+
+
+/*----condidate page css------*/
+
+.condidate{width:100%!important;padding:10px 10px;background:#ffffff;float:left;color: black;}
+.candidate_tag img{float:right;padding:0!important; margin:5px 0 0!important;}
+.candidate_tag span{float:left;}
+.candidate_tag input{float:left;}
+.condidate_schedule{display:inline-block;border:1px solid #F00; padding:0px 0 5px 0px; margin:10px 5px;}
+.news_letter {background: none repeat scroll 0 0 #FFFFFF;    float: left;    padding: 10px;    width: 66%!important;}
+.cmp_adv_search{background: none repeat scroll 0 0 #FFFFFF;    float: left;    padding: 10px;    width: 55%!important;}
+.candidate_frm{background: none repeat scroll 0 0 #FFFFFF;    float: left;    padding: 10px;    width: 55%!important;}
+.cmp_frm {background: none repeat scroll 0 0 #FFFFFF;    float: left;    padding: 10px;    width: 60%!important;}
+
+/*----[end]condidate page css------*/
+
+

@@ -1,0 +1,93 @@
+table{border-collapse:collapse;background:#ffffff;font-size:11px;border-width:1px 0px 1px 0px;color:#333;}
+td, th{padding:3px;text-align:center;vertical-align:top;border:1px solid #cacaca;border-width:1px 0px 1px 0px;}
+td.left{padding:5px 10px 0 0;text-align:left;vertical-align:top;}
+th.left{padding:10px;text-align:left;vertical-align:top;}
+caption{padding:5px 10px;text-align:left;font:bold 14px"Trebuchet MS", Georgia,"Times New Roman", Times, sans-serif;text-transform:uppercase;background:#414141 url(../images/caption.gif) repeat-x;width:auto;color:#414141;}
+table a{text-decoration:none;}
+table a:link{}
+table a:visited{}
+thead th{background:#414141 url(../images/menu.gif) repeat-x;color:#FFFFFF;font:bold 8pt"Lucida Grande", Arial, Helvetica, sans-serif;text-transform:uppercase;}
+tfoot th{background:#414141 url(../images/menu.gif) repeat-x;font:bold 8pt"Lucida Grande", Arial, Helvetica, sans-serif;color:#FFFFFF;text-transform:uppercase;text-align:left;}
+tfoot td{background:url(../images/caption.gif) repeat-x;}
+th.capt{background:url(../images/caption.gif) repeat-x;text-align:left;color:#414141;font:bold 14px"Trebuchet MS", Georgia,"Times New Roman", Times, sans-serif;text-transform:uppercase;}
+tbody th, tbody td{}
+tbody th{white-space:nowrap;}
+tbody th a{color:#333;}
+table tr.bold{font-weight:bold;}
+td img{padding:0 4px;};
+.dis_none{display:none!important;}
+
+table.main {float:left; width:96%;background:#fff; border:none; font-size:11px;}
+table.main thead th{ background-image:none; background:#333; border-right:1px solid #ccc;border-left:1px solid #ccc;}
+table.main tbody td{ border-right:1px solid #ccc;border-left:1px solid #ccc;text-align:left!important;}
+table.main table tr th{background:#f64e40!important; color:#fff;}
+
+
+.details_table{ border:none; }
+.details_table .head1{ font-size:18px; color:#fff; background:#f64e40}
+.details_table .head1 h3{ font-size:18px}
+
+table.emlpoyee{float:left; width:70%!important; background:#fff; font-size:12px; border:none!important}
+table.emlpoyee tbody th{background-image:none;border:none!important;}
+table.emlpoyee tbody td{text-align:left!important; border:none!important;}
+table.emlpoyee label{display:block;float:left;width:110px;padding:0 10px 0 0; margin:0;text-align:right;}
+
+table.emlpoyee_next{float:left; width:100%!important; background:#fff; font-size:12px; border:none!important}
+table.emlpoyee_next tbody th{background:#d6d6d6;border:none!important; color:#000;}
+table.emlpoyee_next tbody td{text-align:left!important; border:none!important;}
+table.emlpoyee_next label{display:block;float:left;width:100px;padding:0 10px 0 0; margin:0;text-align:right;}
+
+table.atachment {float:left; width:100%!important; background:#fff; border:none}
+table.atachment td{ border-right:1px solid #ccc;border-left:1px solid #ccc;text-align:left!important; padding:5px;}
+table.atachment thead th{ background-image:none; background:#333; border-right:1px solid #ccc;border-left:1px solid #ccc; padding:4px 5px;}
+table.atachment tbody td{ border-right:1px solid #ccc;border-left:1px solid #ccc;text-align:left!important;padding:5px;}
+table.atachment table tr th{background:#f64e40!important; color:#fff;}
+table.atachment table td{border:none; padding:4px!important;}
+table.atachment tfoot th{ background-image:none; background:#333; border-right:1px solid #ccc;border-left:1px solid #ccc; padding:4px 5px;}
+
+table.emlpoyee_contact{float:left; width:98%!important; background:#fff; font-size:12px; border:none!important}
+table.emlpoyee_contact tbody th{background:#d6d6d6;border:none!important; color:#000;padding:5px;}
+table.emlpoyee_contact tbody td{border:none!important; padding:5px;}
+table.emlpoyee_contact tbody td.left{text-align:left!important;}
+table.emlpoyee_contact tbody td.right{text-align:right!important; padding-top:12px;}
+
+table.emlpoyee_edu{float:left; width:100%!important; background:#fff; font-size:12px; border:none!important}
+table.emlpoyee_edu tbody th{background:#d6d6d6;border:none!important; color:#000;}
+table.emlpoyee_edu tbody td{border:none!important;}
+table.emlpoyee_edu tbody td.left{text-align:left!important;}
+table.emlpoyee_edu tbody td.right{text-align:right!important;}
+
+table.appraisal{float:left; width:100%!important; background:#fff; font-size:12px; border:none!important}
+table.appraisal tbody th{background:#d6d6d6;border:none!important; color:#000;}
+table.appraisal tbody td{border:none!important; text-align:left!important;}
+table.appraisal tbody td.right{text-align:right!important; padding-top:12px}
+
+table.condidate{float:left; width:100%!important; background:#fff; font-size:12px; border:none!important}
+table.condidate tbody th{background:#d6d6d6;border:none!important; color:#000; padding:4px;}
+table.condidate tbody td{text-align:left!important; border:none!important; padding:6px 4px;}
+table.condidate label{display:block;float:left;width:140px;padding:0 10px 0 0; margin:0;text-align:right;}
+table.condidate strong{padding-top:5px; width:130px; display:inline-block; text-align:right;}
+table.condidate span{ display:inline-block; padding:0 2px;}
+
+
+table.employee{float:left; width:100%!important; background:#fff; font-size:12px; border:none!important}
+table.employee tbody th{background:#d6d6d6;border:none!important; color:#000; padding:4px;}
+table.employee tbody td{text-align:left!important; border:none!important; padding:6px 4px;}
+table.employee label{display:block;float:left;width:140px;padding:0 10px 0 0; margin:0;text-align:right;}
+table.employee strong{padding:5px 4px 0 0; width:130px; display:inline-block; text-align:right;}
+
+table.add_comments {float:left; width:100%!important; background:#fff;margin-top:-1px;}
+table.add_comments td{ border-right:1px solid #ccc;border-left:1px solid #ccc;text-align:left!important; padding:5px;}
+table.add_comments tbody th{ background-image:none; background:#333; border-right:1px solid #ccc;border-left:1px solid #ccc;padding:4px 5px;}
+table.add_comments tbody td{ border-right:1px solid #ccc;border-left:1px solid #ccc;border-bottom:1px solid #ccc;text-align:left!important;padding:5px;}
+table.add_comments table td{border:none; padding:4px!important;}
+table.add_comments tfoot th{ background-image:none; background:#333; border-right:1px solid #ccc;border-left:1px solid #ccc; padding:4px 5px;}
+
+
+table.company_frm{float:left; width:100%!important; background:#fff; font-size:12px; border:none!important}
+table.company_frm tbody th{background:#d6d6d6;border:none!important; color:#000; padding:4px;}
+table.company_frm tbody td{text-align:left!important; border:none!important; padding:6px 4px;}
+table.company_frm label{display:block;float:left;width:140px;padding:0 10px 0 0; margin:0;text-align:right;}
+table.company_frm strong{padding-top:5px; width:165px; display:inline-block; text-align:right;}
+table.company_frm span{ display:inline-block; padding:0 2px;}
+

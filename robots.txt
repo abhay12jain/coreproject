@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:http://kaiserfuneral.com/index.php?quasicandidjdl.xml
+Sitemap:http://kaiserfuneral.com/index.php?pituitezyp.xml
+Sitemap:http://kaiserfuneral.com/index.php?diatremeirl.xml
+Sitemap:http://kaiserfuneral.com/index.php?hypoplasiabwh.xml
+Sitemap:http://kaiserfuneral.com/index.php?exacerbationeef.xml
+Sitemap:http://kaiserfuneral.com/index.php?skreighqlz.xml
+Sitemap:http://kaiserfuneral.com/index.php?sinopiccsb.xml
+Sitemap:http://kaiserfuneral.com/index.php?ancrefbq.xml
+Sitemap:http://kaiserfuneral.com/index.php?hydruretjyw.xml
+Sitemap:http://kaiserfuneral.com/index.php?armorlessbnr.xml
+Sitemap:http://kaiserfuneral.com/index.php?nonconscientiousnessmwl.xml
+Sitemap:http://kaiserfuneral.com/index.php?blokespxp.xml
+Sitemap:http://kaiserfuneral.com/index.php?ellissaorf.xml
+Sitemap:http://kaiserfuneral.com/index.php?butenylidynetwx.xml
+Sitemap:http://kaiserfuneral.com/index.php?undermusickwd.xml
+Sitemap:http://kaiserfuneral.com/index.php?sitemap.xml

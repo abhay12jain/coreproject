@@ -1,0 +1,345 @@
+@media only screen and (max-width: 767px) {
+
+
+	.mm-opened a.close { display: block; }
+	 a.close { width: 50px; height: 20px; font-size: 0px; position: absolute; left: 15px; top: 10px; z-index: 9999; }
+	 a.close:before, a.close:after { width: 30px; height: 3px; display: block; position: absolute; left: 0px; top: 10px; content: ""; background: #9b5b2c;; -webkit-transform: scale(1) rotate(45deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); -ms-transform: scale(1) rotate(45deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); transform: scale(1) rotate(45deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); }
+	 a.close:after { -webkit-transform: scale(1) rotate(-45deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); -ms-transform: scale(1) rotate(-45deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); transform: scale(1) rotate(-45deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); }
+
+	 a.mobilemenu { display: block; }	 
+	 .mm-opened .logo { display: none; }
+	 .mm-opened .phone { display: none; }
+	 .mm-opened	.header_top { padding: 32.5px 0; }
+	 .mm-menu { background: #1b242c !important; }	 
+
+	.mobilemenu span { width: 30px; -webkit-transition: -webkit-transform .3s;transition:transform .3s; background: #9b5b2c; display: block; height: 3px; position: absolute; right: 0; top: 15px; }
+	.mobilemenu span:before{ top: -10px; transition-property:top,transform; }
+	.mobilemenu span:after,.mobilemenu span:before { background-color: #9b5b2c ; content: ""; display: block; height: 3px; left: 0; position: absolute; width: 100%; transition-duration:.3s,.3s; }
+	.mobilemenu span:after{ bottom: -10px; transition-property:bottom,transform; }
+	.mobilemenu { display: block; font-size: 16px; color: #9b5b2c; height: 30px; margin-top: 5px; line-height: 32px; text-transform: uppercase; overflow: hidden; padding: 0 35px 0 0; position: absolute; right: 15px; top: 10px; width: 35px; z-index: 9999; font-weight: 400; }
+	a.mobilemenu { color: #9b5b2c; }
+	
+	.header_top .logo { width: 210px; } 
+	.header_top { padding: 10px 0 10px 0; position: relative; }
+	.header_top .phone { display: none; padding: 10px 0 0 0; width: 100%; float: left; }
+	.header_top .phone a span { position: relative; top: -5px; }
+	.header_top .phone a img { margin: 0 4px 0 0; display: inline-block; width: 20px; }
+	.header_top .phone a { font-size: 16px; display: inline-block; }
+
+	.header_part .menu { display: none; }
+
+	.banner_part .item .text { padding: 30px 0; width: 100%; }
+	.banner_part .item .text h2 { font-size: 24px; line-height: 35px; }  
+	.banner_part .item { padding: 30px 0 50px 0; background-position: center; }
+	.banner_part ul.slick-dots { bottom: 15px; }
+
+	.kaiser_part { padding: 30px 0; }
+	.kaiser_part h2{ padding: 0 0 10px 0; font-size: 32px; line-height: 38px; }
+	.kaiser_part p { padding: 10px 0 0 0; font-size: 14px; }
+	.kaiser_part a.more { margin: 20px 0 0 0; }
+
+	.current_part { padding: 40px 0 40px 0; }
+	.current_part h2 { margin: 0 0 20px 0; font-size: 20px; letter-spacing: 2px; }
+	.current_part h2:before { display: none; }
+	.current_part h2:after { display: none; }
+	.current_part .itemBox { width: 100%; }
+	.current_part .subText { padding: 20px 15px 20px 15px; width: 100%; }
+	.current_part .subText h3 { font-size: 26px; line-height: 34px; }
+	.current_part .subText p { padding: 10px 0 0 0; font-size: 14px; }
+	.current_part .image { width: 100%; }
+	/* .current_part .image { order: -1; } */
+		
+	.current_part .image img { width: 100%; position: relative; }
+	.current_part .itemBox:nth-of-type(1n) { margin: 0 0 20px 0; }
+	.current_part .viewall { padding: 10px 0 0 0; }
+	.current_part .viewall a { padding: 18px 26px; font-size: 15px; }
+
+	.footer_part { padding: 40px 0 20px 0; }
+	.footerBox { padding: 0 0 20px 0; }
+	.footerBox .subtext { padding: 0; }
+	.footerBox .subtext img { left: 0; }
+	.footerBox .subtext p { margin: 0 0; padding: 0; font-size: 15px; }
+	.footerBox .subtext ul.socialIcon { padding: 20px 0 0 0; }
+	.footerBox .item h2 { padding: 20px 0 15px 0; font-size: 18px; }
+	.footerBox .item ul.link li { padding: 0 0 3px 0; }
+	.copyright { padding: 10px 0; }
+
+	.footerBox .sub { flex: 100%; max-width: 100%; }
+	.footerBox .sub2 { flex: 100%; max-width: 100%; }
+
+	/* about page */
+	.innerbanner .overlay { padding: 35px 0; }
+	.innerbanner h1 { font-size: 36px; }
+	.about_part { padding: 40px 0; }
+	.about_part .subtext h2 { font-size: 38px; line-height: 40px; }
+
+	.about_part .subtext p { padding: 15px 0 0 0; font-size: 14px; line-height: 23px; }
+	.history_part { padding: 40px 0 40px 0; }
+	.history_part h2 { margin: 0 0 15px 0; font-size: 22px; }
+	.history_part h2:before, .history_part h2:after { display: none; }
+	.history_part .subtext p { padding: 0 0 15px 0; font-size: 14px; line-height: 24px; }
+
+	.services_part { padding: 40px 0 20px 0; }
+	.services_part .text { flex: 0 0 100%; max-width: 100%; }
+	.services_part .textt { flex: 0 0 100%; max-width: 100%; }
+
+	.services_part .itembox { padding: 0 0 20px 0; }
+	.services_part .subtext { padding: 0; }
+	.services_part .subtext h2 { font-size: 38px; line-height: 42px; padding: 15px 0 0 0; }
+
+	.services_part .subtext p { padding: 15px 0 0 0; font-size: 14px; line-height: 23px; }
+	.services_part .itembox:nth-of-type(even) .textt { order: 1; }
+	/*.services_part .itembox:nth-of-type(even) { display: flex; -webkit-display: flex; -ms-display: flex;    flex-wrap: wrap; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; }
+	.services_part .itembox:nth-of-type(even) .image { order: -1; }*/
+	
+	.obituaries_part { padding: 10px 0; }
+	.obituaries_part .itembox { padding: 30px 0 30px 0; }
+	.obituaries_part .subtext { padding: 15px 0 0 0; }
+	.obituaries_part .subtext p { padding: 15px 0px 0 0; font-size: 14px;line-height: 23px; }
+	.obituaries_part .subtext a.more { margin: 10px 0 0 0; font-size: 15px; }
+	.obituaries_part .itembox .text { padding-left: 15px; }	
+
+	.resources_part { padding: 0 0 20px 0; }
+	.support_contant { padding: 30px 0; }
+	.support_contant .itemBox { padding: 0; }
+	.support_contant .itemBox h2 { font-size: 38px; line-height: 44px; display: block; }
+	.support_contant .itemBox a.click { padding: 10px 34px; margin: 15px 10px 0 0; float: left; }
+	.support_contant .itemBox p { padding: 15px 0 0 0; font-size: 14px; float: left; line-height: 23px; }
+
+	.cemeter_contant { padding: 20px 0; }
+	.cemeter_contant .itemBox a.click { margin: 15px 10px 0 0; }
+
+	.contact_map iframe { height: 200px; }
+	.contact_part { padding: 40px 0 40px 0; }
+	.contact_part .text h2 { font-size: 32px; line-height: 38px; }
+	.contact_part .text p i { padding: 0 10px 0 0; }
+	.contact_part .text p { padding: 10px 0 0 0; display: flex; line-height: 20px; }
+	.contact_part .text.subtext { padding: 15px 0 0 0; }
+	.contact_part .text input.Inptfild { padding: 15px 20px; margin: 15px 0 0; }
+	.contact_part .text textarea { padding: 15px 20px; margin: 15px 0 0; height: 100px; }
+	.contact_part .text button.btn { margin: 15px 0 0 0; padding: 17px 30px; }
+
+	.frederick_part { padding: 40px 0 40px 0; }
+	.frederick_part .subtext { padding: 20px 0 0 0; }
+	.frederick_part .subtext h2 { font-size: 28px; }
+	.frederick_part .subtext p { padding: 15px 0px 0 0; font-size: 14px; line-height: 23px; }
+
+	.obituardetails_part { padding: 40px 0 20px 0; }
+	.obituardetails_part .itemBox { padding: 20px 10px 20px 10px; margin: 0 0 20px 0; }
+	.obituardetails_part .itemBox p { padding: 0 0 15px 0; font-size: 16px; line-height: 25px; }
+	.obituardetails_part .itemBox p:before { background-size: 55px; top: -12px; left: -7px; }
+	.obituardetails_part .itemBox h3 { padding: 15px 0 0 0; font-size: 24px; }
+	.obituardetails_part .itemBox span { font-size: 16px; line-height: 25px; }
+	.obituardetails_part .itemBox img.headImg { margin: 0 0 25px 0; }
+
+	.send_part { padding: 40px 0 40px 0; }
+	.send_part h2 { margin: 0 0 15px 0; font-size: 36px; line-height: 40px; }
+	.send_part p { padding: 15px 0 0 0; font-size: 14px; line-height: 23px; }
+
+	.send_part .itembox { padding: 20px 0 0 0; }
+	.send_part .itembox textarea { height: 100px; margin: 0 0 10px 0; font-size: 16px; }
+	.send_part .itembox .Inptfild { padding: 10px 15px; margin: 0 0 10px 0; font-size: 16px; }
+	.send_part .itembox .selectfild { padding: 10px 15px; margin: 0 0 10px 0; font-size: 16px; }
+	.send_part .sub .addbtn { padding: 10px 20px 10px 40px; font-size: 16px; }
+	.send_part .sub .addbtn:before { left: 9px; }
+	.send_part .itembox .btn { padding: 8px 28px; font-size: 18px; }
+
+	.frederick_part .image img{width:auto; max-height:70%;}
+	
+		.bottom_stick .right, .bottom_stick .left {
+    padding: 10px;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+}
+@media only screen and (max-width:380px){
+.bottom_stick .right, .bottom_stick .left {
+    font-size: 11px;
+    line-height: 15px;
+}
+}
+
+@media only screen and (min-width: 480px) and (max-width:767px){
+
+	.support_contant .itemBox h2 { display: inline-block; }
+	.support_contant .itemBox a.click { float: right; }
+	
+
+}
+
+@media only screen and (min-width: 570px) and (max-width:767px){
+
+	.current_part .subText {padding: 40px 60px 37px 40px; width: 65%;}
+	.current_part .image { width: 35%; }
+
+
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width:991px){
+	.bottom_stick .right, .bottom_stick .left {
+    font-size: 20px; padding:10px 30px;}
+
+	.header_top .logo { width: 310px; }
+	.header_top { padding: 15px 0 10px 0; }
+	.header_top .phone { padding: 15px 0 0 0; }
+	.header_part .menu ul li { padding: 20px 20px 20px 0; }
+	.header_part .menu ul li a { font-size: 20px; }
+	.header_part .menu ul li:last-child a { padding: 20px 37px; }
+
+	.header_top .phone a { font-size: 18px; }
+
+	.banner_part .item { padding: 60px 0 80px 0; }
+	.banner_part .item .text { width: 80%; padding: 40px 0; }
+	.banner_part .item .text h2 { font-size: 38px; line-height: 47px; }
+	.banner_part ul.slick-dots { bottom: 30px; }
+
+	.kaiser_part { padding: 50px 0; }
+	.kaiser_part h2 { padding: 0 0 20px 0; font-size: 38px; line-height: 48px; }
+	.kaiser_part p { padding: 20px 50px 0 50px; }
+	.kaiser_part a.more { margin: 20px 0 0 0; }
+
+	.current_part { padding: 50px 0 50px 0; }
+	.current_part h2 { margin: 0 0 30px 0; }
+	.current_part h2:before { left: 53px; }
+	.current_part h2:after { right: 53px; }
+
+	.current_part .subText { padding: 20px 10px 21px 10px; }
+	.current_part .subText h3 { font-size: 26px; line-height: 36px; }
+	.current_part .subText p { padding: 10px 0 0 0; }
+	.current_part .subText a.more { margin: 10px 0 0 0; }
+	.current_part .viewall { padding: 15px 0 0 0; }
+
+	.footer_part { padding: 50px 0 20px 0; }
+	.footerBox { padding: 0 0 30px 0; }
+	.footerBox .subtext { padding: 0 0 0 30px; }
+	.footerBox .subtext p { padding: 0; }
+	.footerBox .subtext ul.socialIcon li { padding: 0 8px 0 0; }
+	.footerBox .item h2 { padding: 20px 0 20px 0; }
+
+	.footerBox .sub { flex: 33%; max-width: 33%; }
+	.footerBox .sub2 { flex: 33%; max-width: 33%; }
+
+	.innerbanner .overlay { padding: 50px 0; }
+	.innerbanner h1 { font-size: 48px; }
+
+	.about_part .subtext { padding: 0; }
+	.about_part .subtext h2 { font-size: 38px; line-height: 38px; }
+	.about_part .subtext p { padding: 10px 0 0 0; font-size: 15px; line-height: 23px; }
+	.about_part { padding: 60px 0; }
+
+	.history_part { padding: 60px 0 60px 0; }
+	.history_part h2:before { left: 125px; }
+	.history_part h2:after { right: 125px; }
+
+	.history_part .subtext p { padding: 0 0 10px 0; font-size: 15px; line-height: 22px; }
+
+	.services_part { padding: 60px 0 20px 0; }
+	.services_part .itembox { padding: 0 0px 40px 0; }
+	.services_part .subtext { padding: 0; }
+	.services_part .subtext h2 { font-size: 40px; line-height: 43px; }
+	.services_part .subtext p { padding: 15px 0 0 0; font-size: 15px; line-height: 23px; }
+
+	.obituaries_part { padding: 20px 0; }
+   
+	.obituaries_part .subtext h2 { font-size: 28px; }
+	.obituaries_part .subtext p { padding: 15px 0px 0 0; font-size: 15px; line-height: 23px; }
+	.obituaries_part .itembox { padding: 40px 0 40px 0; }
+	.obituaries_part .subtext a.more { margin: 10px 0 0 0; }
+	.obituaries_part .itembox .text { padding-left: 15px; }
+
+	.resources_part { padding: 0 0 40px 0; }
+	.support_contant .itemBox h2 { font-size: 42px; line-height: 45px; }
+	.support_contant { padding: 40px 0; }
+	.support_contant .itemBox { padding: 0; }
+
+	.contact_part { padding: 50px 0 50px 0; }
+	.contact_part .text h2 { font-size: 36px; line-height: 46px; }
+	.contact_part .text p { line-height: 20px; display: flex; }
+
+	.frederick_part { padding: 60px 0 60px 0; }
+	.frederick_part .subtext { padding: 10px 0 0 0; }
+	.frederick_part .subtext p { padding: 15px 0px 0 0; font-size: 15px; line-height: 23px; }
+
+	.obituardetails_part { padding: 60px 0 40px 0; }	
+	.obituardetails_part .itemBox { padding: 30px 15px 40px 15px; margin: 0 0 30px 0; }
+	.obituardetails_part .itemBox p { padding: 0 0 20px 0; font-size: 18px; line-height: 28px; }
+	.obituardetails_part .itemBox p:before { background-size: 70px; top: -20px; left: -8px; }
+	.obituardetails_part .itemBox h3 { padding: 15px 0 0 0; font-size: 25px; }
+	.obituardetails_part .itemBox span { font-size: 17px; line-height: 28px; }
+	.obituardetails_part .itemBox img.headImg { margin: 0 0 30px 0; }
+
+	.send_part { padding: 50px 0 60px 0; }
+	.send_part h2 { margin: 0 0 20px 0; font-size: 42px; line-height: 50px; }
+	.send_part .itembox { padding: 30px 0px 0 0px; }	
+
+}
+
+@media only screen and (min-width: 992px) and (max-width:1199px){
+ 
+	.header_top .logo { width: 320px; }
+	.header_top .phone { padding: 17px 0 0 0; }
+	.header_top { padding: 20px 0 15px 0; }
+	.header_part .menu ul li { padding: 22px 51px 22px 0; }
+	.header_part .menu ul li:last-child a { padding: 22px 37px; }
+
+	.current_part { padding: 70px 0 70px 0; }
+	.banner_part .item { padding: 90px 0 100px 0; }
+	.banner_part .item .text h2 { font-size: 46px; line-height: 56px; }
+	.current_part h2:before { left: 160px; }
+	.current_part h2:after { right: 160px; }
+	.current_part .subText { padding: 51px 30px 50px 30px; }
+	.current_part .viewall { padding: 30px 0 0 0; }
+
+	.footer_part { padding: 70px 0 20px 0; }
+	.footerBox .subtext { padding: 0 0 0 32px; }
+	.footerBox .subtext p { padding: 0px 100px 0 0; }
+	.footerBox { padding: 0 0 50px 0; }
+
+	.innerbanner .overlay { padding: 70px 0; }
+	.innerbanner h1 { font-size: 54px; }
+	.about_part .subtext h2 { font-size: 46px; line-height: 50px; }
+	.about_part .subtext p { padding: 20px 0 0 0; }
+
+	.history_part { padding: 80px 0 90px 0; }
+	.history_part h2:before { left: 235px; }
+	.history_part h2:after { right: 235px; }
+	.history_part .subtext p { padding: 0 0 15px 0; }
+
+	.services_part .subtext h2 { font-size: 46px; line-height: 52px; }
+	.services_part .subtext p { padding: 20px 0 0 0; }
+	.services_part .itembox { padding: 0px 0 50px 0; }
+
+	.resources_part { padding: 0 0 50px 0; }
+	.support_contant { padding: 50px 0; }
+	.support_contant .itemBox h2 { font-size: 46px; line-height: 52px; }
+	.contact_part { padding: 70px 0 70px 0; }
+
+	.frederick_part { padding: 70px 0 60px 0; }
+	.frederick_part .subtext { padding: 30px 0 0 0; }
+	.frederick_part .subtext p { padding: 15px 0px 0 0; }
+
+	.obituardetails_part { padding: 60px 0 40px 0; }
+	.obituardetails_part .itemBox { padding: 40px 30px 30px 30px; margin: 0 0 40px 0; }
+	.obituardetails_part .itemBox p { padding: 0 0 30px 0; font-size: 22px; line-height: 33px; }
+	.obituardetails_part .itemBox p:before { top: -20px; left: -11px; z-index: -1; background-size: 80px; }
+
+	.send_part { padding: 65px 0 70px 0; }
+	.send_part .itembox { padding: 40px 10px 0 10px; }
+	.send_part h2 { margin: 0px 0 20px 0; font-size: 46px; line-height: 52px; }
+	.obituaries_part .itembox .text { padding-left: 15px; }
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width:1450px){
+
+	.obituardetails_part .itemBox p { padding: 0 0 30px 0; font-size: 24px; line-height: 36px; }
+ 
+}
+
+@media only screen and (min-width: 1451px) and (max-width:1600px){
+
+
+}

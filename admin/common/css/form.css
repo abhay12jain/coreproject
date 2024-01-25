@@ -1,0 +1,32 @@
+form{font:12px Geneva, arial, sans-serif;margin:0 0;padding:10px 0;width:100%;}
+fieldset{padding:10px 0;margin:0 0 15px 0;background:#fff;border:5px solid #ececec;}
+* html fieldset{position:relative;margin:10px 0 30px 0;padding:20px 0;}
+* html legend{position:absolute;top:-1.2em;left:0;}
+fieldset legend{font:normal 1.5em Helvetica, sans-serif;padding:10px 5px;text-transform:uppercase;background:#fff;}
+form label{display:block;float:left;width:210px;padding:0 10px 0 0;margin:6px 0 0;text-align:right;}
+form dfn{margin:0 10px;}
+form input, form textarea{width:auto;margin:5px 0 0 0;}
+form input#reset{margin-left:0;}
+form select{font:11px Geneva, arial, sans-serif;margin:0 0;padding:0 0 0 5px;}
+textarea{overflow:auto;}
+form small{display:block;margin:0 0 5px 160px;padding:1px 3px;font-size:88%;}
+form .required{font-weight:bold;}
+form br{clear:left;}
+ 
+ .class_password{ border:1px solid #ccc; background:#fcfcfc; padding:5px; margin:0 0 3px; margin:0 20px 10px 0}
+ .class_text{ border:1px solid #ccc; background:#fcfcfc; padding:5px; margin:0 0 3px; margin:0 20px 10px 0}
+ .class_textarea{ border:1px solid #ccc; background:#fcfcfc; padding:5px; margin:0 0 3px; margin:0 20px 10px 0}
+ .class_select{ border:1px solid #ccc; background:#fcfcfc; padding:5px; margin:0 0 3px;margin:0 20px 10px 0 }
+ .class_checkbox{border:1px solid #ccc; background::#fcfcfc;}
+ .button {
+    background: none repeat scroll 0 0 #CC0000!important;
+    border: medium none;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 0 0 0;
+    padding: 4px;
+    width: auto!important;
+}
+
